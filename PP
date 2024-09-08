@@ -1,0 +1,16 @@
+Privacy Policy
+
+Thank you for reading our privacy policy page, We assure our clients that their personal data and information will be completely secure in our databases. Please read furthur for elaboration on the information we collect.
+
+1. Data we collect
+
+Shimo Bot collects data such as Server ID, User ID, Channel ID, etc.
+
+- Why are we collecting such information?
+We collect such information to provide information around the creation of an actions and to provide every client and their server with their own unique set of actions in a given server.
+
+- How do we protect our client's data?
+We ensure that our client's data will be safe and secure in our servers, We have taken measures to prevent data loss and overall protection of database is taken care of, We will never misuse or share your data.
+
+- How can you get your data wiped from our database?
+You may request a data wipe in our support server tickets. Once done, we cannot revert the process or regain the database which has been lost.
